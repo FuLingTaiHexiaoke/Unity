@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A34F8F4A-693A-589D-98D6-27EA1F4AA41A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Complete-Game/Scripts/Managers/PauseManager.cs">
+    <Files>
+      <File FileName="Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs" Line="80" Column="42" />
+      <File FileName="Assets/_Complete-Game/Scripts/Enemy/EnemyHealth.cs" Line="102" Column="47" />
+      <File FileName="Assets/_Complete-Game/Scripts/Enemy/EnemyMovement.cs" Line="40" Column="6" />
+      <File FileName="Assets/_Complete-Game/Scripts/Player/PlayerShooting.cs" Line="104" Column="56" />
+      <File FileName="Assets/_Complete-Game/Scripts/Managers/EnemyManager.cs" Line="18" Column="9" />
+      <File FileName="Assets/_Complete-Game/Scripts/Managers/GameOverManager.cs" Line="30" Column="2" />
+      <File FileName="Assets/_Complete-Game/Scripts/Player/PlayerHealth.cs" Line="41" Column="23" />
+      <File FileName="Assets/_Complete-Game/Scripts/Managers/ScoreManager.cs" Line="9" Column="27" />
+      <File FileName="Assets/_Complete-Game/Scripts/Managers/PauseManager.cs" Line="7" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Survival_220Shooter_220tutorial_220Learning PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

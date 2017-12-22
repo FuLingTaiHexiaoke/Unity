@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7E5EA4E3-B48F-3A98-6D8C-4F343D254B09}|">
+  <MonoDevelop.Ide.ItemProperties.StreamVive2017-12-18-2 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/SteamVR/Extras/SteamVR_TestThrow.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/WeaponController.cs" Line="17" Column="2" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="32" Column="37" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="58" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/FOVKick.cs" Line="24" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/CurveControlledBob.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/EnemySpawnController.cs" Line="24" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
